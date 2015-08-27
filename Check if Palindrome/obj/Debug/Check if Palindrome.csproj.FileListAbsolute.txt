@@ -1,0 +1,12 @@
+C:\Users\Josh\Documents\GitHub\Check if Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.exe.config
+C:\Users\Josh\Documents\GitHub\Check if Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.exe
+C:\Users\Josh\Documents\GitHub\Check if Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.pdb
+C:\Users\Josh\Documents\GitHub\Check if Palindrome\Check if Palindrome\obj\Debug\Check if Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\Check if Palindrome\Check if Palindrome\obj\Debug\Check if Palindrome.exe
+C:\Users\Josh\Documents\GitHub\Check if Palindrome\Check if Palindrome\obj\Debug\Check if Palindrome.pdb
+C:\Users\Josh\Documents\GitHub\Check-if-Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.exe.config
+C:\Users\Josh\Documents\GitHub\Check-if-Palindrome\Check if Palindrome\obj\Debug\Check if Palindrome.exe
+C:\Users\Josh\Documents\GitHub\Check-if-Palindrome\Check if Palindrome\obj\Debug\Check if Palindrome.pdb
+C:\Users\Josh\Documents\GitHub\Check-if-Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.exe
+C:\Users\Josh\Documents\GitHub\Check-if-Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.pdb
+C:\Users\Josh\Documents\GitHub\Check-if-Palindrome\Check if Palindrome\obj\Debug\Check if Palindrome.csprojResolveAssemblyReference.cache
